@@ -1,6 +1,4 @@
-# Web-automation-using-Playwright
-Automate the login page of orange hrm using playwright
-
+# Web-Automation-with-Playwright
 
 ## What is Automation?
 
@@ -35,4 +33,5 @@ Overall, Playwright is a powerful and efficient tool for web automation that can
  
 - Then run the test:
  ```npx playwright test```
+
 
