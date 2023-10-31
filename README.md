@@ -33,5 +33,11 @@ Overall, Playwright is a powerful and efficient tool for web automation that can
  
 - Then run the test:
  ```npx playwright test```
+-To see test report :
+```npx playwright show-report```
 
+
+## Test Report:
+
+<img width="1086" alt="Screenshot 2023-10-31 at 6 06 18 AM" src="https://github.com/KhorshedSagor/Web-automation-using-Playwright/assets/134398536/8a72f324-b344-49e9-aa5e-46c26cf0799e">
 
