@@ -3,7 +3,7 @@ class LoginPage {
     this.page = page;
     this.username_textbox = page.locator('[name="username"]');
     this.password_textbox = page.locator('[name="password"]');
-    this.login_button = page.locator('[class="oxd-button oxd-button--medium oxd-button--main orangehrm-login-button"]');
+    this.login_button = page.locator('[type="submit"]');
   }
 
 
