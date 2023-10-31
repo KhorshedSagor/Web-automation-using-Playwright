@@ -20,21 +20,47 @@ Accessibility Testing: Playwright includes extensive support for accessibility t
 
 Overall, Playwright is a powerful and efficient tool for web automation that can help you to test your application more effectively and catch issues early in the development process.
 
+
+## Prerequisites
+Before you can run the test suite, ensure that Node.js and npm are installed on your local machine.
+
+## Login Page:
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+
 ## Technology used:
 - Playwright
 - Visual Studio Code
 - Javascript
 
-## How to run this project
+## Setup
 
-- Clone this project
-- First install dependencies:
- ```npm install```
- 
-- Then run the test:
- ```npx playwright test```
--To see test report :
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the dependencies by running the following command:
+
+   ```
+   npm install
+   ```
+
+## Running the Tests
+
+To run the test suite, execute the following command:
+
+```
+npx playwright test
+```
+
+## View Test Report
+
+To see test report:
 ```npx playwright show-report```
+
+## Test Cases
+
+The test suite includes the following test cases:
+ 1. **Positive test:** Successful Login with valid credentials
+ 2. **Negative test:** Unsuccessful Login with invalid credentials
 
 
 ## Test Report:
