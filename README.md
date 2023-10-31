@@ -29,9 +29,9 @@ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 
 ## Technology used:
-- Playwright
-- Visual Studio Code
-- Javascript
+- Playwright: The automation framework.
+- JavaScript: The programming language used to write the test scripts.
+- Visual Studio Code: The recommended code editor for this project.
 
 ## Setup
 
@@ -62,8 +62,20 @@ The test suite includes the following test cases:
  1. **Positive test:** Successful Login with valid credentials
  2. **Negative test:** Unsuccessful Login with invalid credentials
 
+## Browsers Used
+1. Chromium
+2. Firefox
+3. Webkit
+
 
 ## Test Report:
 
 <img width="1086" alt="Screenshot 2023-10-31 at 6 06 18 AM" src="https://github.com/KhorshedSagor/Web-automation-using-Playwright/assets/134398536/8a72f324-b344-49e9-aa5e-46c26cf0799e">
+
+## Video Output
+
+
+
+
+https://github.com/KhorshedSagor/Web-automation-using-Playwright/assets/134398536/85a15924-4fe3-47fc-b772-9d8efcf7bb8b
 
