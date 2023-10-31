@@ -1,4 +1,4 @@
-# Web-Automation-with-Playwright
+# Web-Automation-using-Playwright
 
 ![1_gMiUPuRGC36nxZHe2zthOg](https://github.com/KhorshedSagor/Web-automation-using-Playwright/assets/134398536/cccf4592-ff56-4a8d-9d33-cdfb41919340)
 
